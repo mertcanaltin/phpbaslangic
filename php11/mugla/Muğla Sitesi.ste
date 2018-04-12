@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<site SitePrefVersionMajor="12" SitePrefVersionMinor="0">
+    <localinfo sitename="Mu%C4%9Fla%20Sitesi" ftporrdsserver="FALSE" mediaqueryfile="" localroot="D:%5CMutlu%20YALI%5C2017-2018%20g%C3%BCz%5CN%C3%96%5Cinternet2%5Cphp9%5Cmugla%5C" assetfolder="D:%5CMutlu%20YALI%5C2017-2018%20g%C3%BCz%5CN%C3%96%5Cinternet2%5Cphp9%5Cmugla%5CSpryAssets%5C" webfontsfolder="D:%5CMutlu%20YALI%5C2017-2018%20g%C3%BCz%5CN%C3%96%5Cinternet2%5Cphp9%5Cmugla%5Cwebfonts%5C" imagefolder="" spacerfilepath="" refreshlocal="TRUE" rewritedocrellinks="FALSE" cache="TRUE" httpaddress="http://localhost/Mugla_Uzak/" relativeTo="DOCUMENT" caseSensitiveLinks="FALSE" curserver="webserver"/>
+    <designnotes usedesignnotes="TRUE" sharedesignnotes="FALSE"/>
+    <sitemap homepage="" pagesperrow="200" columnwidth="125" showdependentfiles="FALSE" showpagetitles="FALSE" showhiddenfiles="FALSE"/>
+    <bcinfo siteid="0" sitename="" secureURL=""/>
+    <fileviewcolumns sharecolumns="FALSE">
+        <column name="Local%20Files" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="80" remotewidth="180"/>
+        <column name="Notes" align="center" show="FALSE" share="FALSE" builtin="TRUE" localwidth="36" remotewidth="36"/>
+        <column name="Size" align="right" show="TRUE" share="FALSE" builtin="TRUE" localwidth="-2" remotewidth="-2"/>
+        <column name="Type" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="60" remotewidth="60"/>
+        <column name="Modified" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="102" remotewidth="102"/>
+        <column name="Checked%20Out%20By" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="-1" remotewidth="-1"/>
+</fileviewcolumns>
+    <serverlist>
+        <server servermodel="" servertype="remoteServer" weburl="http://localhost/Mugla_Uzak/" connectionsmigrated="FALSE" serverobjectsversion="1" defaultdoctype="HTML" accesstype="lan" remoteroot="C:/wamp/www/Mugla_Uzak" name="Mu%C4%9Fla%20Sitesi%20Uzak" maintainSyncInfo="TRUE" autoUpload="FALSE" enablecheckin="FALSE" checkoutname="" checkoutwhenopen="TRUE" emailaddress="" refreshremote="FALSE"/>
+        <server servermodel="" servertype="testingServer" weburl="http://localhost/Mugla_Test/" connectionsmigrated="FALSE" serverobjectsversion="1" defaultdoctype="HTML" accesstype="lan" remoteroot="C:/wamp/www/Mugla_Test" name="Mu%C4%9Fla%20Sitesi%20Test" maintainSyncInfo="TRUE" autoUpload="FALSE" enablecheckin="FALSE" checkoutname="" checkoutwhenopen="TRUE" emailaddress="" refreshremote="FALSE" testsvrbinaccesstype="none"/>
+</serverlist>
+    <cloaking enabled="TRUE" patterns="FALSE">
+        <cloakedfolder folder="dw_php_codehinting.config"/>
+        <cloakedpattern pattern=".fla"/>
+        <cloakedpattern pattern=".psd"/>
+</cloaking>
+    <contributorintegration enabled="FALSE"/>
+</site>
