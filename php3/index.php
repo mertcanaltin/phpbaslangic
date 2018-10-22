@@ -22,7 +22,7 @@
 		echo("</nav>");
 		?>
 		<p>
-		Mutlu YALI
+		Mert can altın
 		</p>
 		</div>
 	</body>
